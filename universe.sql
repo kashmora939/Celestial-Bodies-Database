@@ -487,7 +487,7 @@ ALTER TABLE ONLY public.moon
 
 
 --
--- Name: moon moon_pkey; Type: CONSTRAINT; Schema: public; Owner: freecodecamp
+-- Name: moon moon_pkey; Type: CONSTRAINT; Schema: public; Owner: freecodecamp 
 --
 
 ALTER TABLE ONLY public.moon
